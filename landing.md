@@ -26,17 +26,61 @@ nav-menu: yes
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section id="one" class="tiles">
+	<article>
+		<span class="image">
+			<img src="assets/images/IMG_1310.jpg" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="/forty-jekyll-theme/2016/08/25/aliquam.html" class="link">UMM LAN Party</a></h3>
+			<p>General Information</p>
+		</header>
+	</article>
+
+	<article>
+		<span class="image">
+			<img src="assets/images/IMG_1290.jpg" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="/forty-jekyll-theme/2016/08/24/tempus.html" class="link">Spring Semester LAN Party</a></h3>
+			<p>Hot new details on the upcoming LAN party</p>
+		</header>
+	</article>
+
+	<article>
+		<span class="image">
+			<img src="assets/images/IMG_5259.jpg" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="/forty-jekyll-theme/2016/08/23/magna.html" class="link">All for Fun, and Fun for All</a></h3>
+			<p>See what we've got to offer</p>
+		</header>
+	</article>
+
+	<article>
+		<span class="image">
+			<img src="assets/images/IMG_1317.jpg" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="/forty-jekyll-theme/2016/08/22/ipsum.html" class="link">LAN Party Legacy</a></h3>
+			<p>Photos and posters from past LAN parties</p>
+		</header>
+	</article>
+</section>
+<!--
+<!-- One -->
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>UMM LAN Party</h2>
 		</header>
 		<p>The UMM LAN party is an open event held each semester by the Computer Science Club in Oyate hall. </p>
 	</div>
-</section>
+</section> -->
+
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- <section id="style2" class="spotlights">
 	<section>
 		<a href="2017Spring.html" class="image">
 			<img src="assets/images/IMG_1290.jpg" alt="" data-position="center center" />
@@ -53,6 +97,7 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="LANContent.html" class="image">
 			<img src="assets/images/IMG_5259.jpg" alt="" data-position="top center" />
@@ -69,6 +114,7 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="LanLegacy.html" class="image">
 			<img src="assets/images/IMG_1317.jpg" alt="" data-position="25% 25%" />
@@ -85,5 +131,5 @@ nav-menu: yes
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 </div>

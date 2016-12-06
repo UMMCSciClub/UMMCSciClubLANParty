@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Landing
-description: Welcome to the University of Minnesota, Morris LAN Party information page.
+description: Welcome to the University of Minnesota, Morris Computer Science Club information page.
 image: assets/images/CampusPic.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>U of M, Morris LAN Party</h1>
+			<h1>U of M, Morris CSci Club</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -32,7 +32,7 @@ nav-menu: yes
 			<img src="assets/images/IMG_1310.jpg" alt="" />
 		</span>
 		<header class="major">
-			<h3><a href="/forty-jekyll-theme/2016/08/25/aliquam.html" class="link">UMM LAN Party</a></h3>
+			<h3><a href="GeneralInfo.html" class="link">UMM CSci Club</a></h3>
 			<p>General Information</p>
 		</header>
 	</article>
@@ -42,18 +42,8 @@ nav-menu: yes
 			<img src="assets/images/IMG_1290.jpg" alt="" />
 		</span>
 		<header class="major">
-			<h3><a href="/forty-jekyll-theme/2016/08/24/tempus.html" class="link">Spring Semester LAN Party</a></h3>
+			<h3><a href="Spring2017LAN.html" class="link">Spring Semester LAN Party</a></h3>
 			<p>Hot new details on the upcoming LAN party</p>
-		</header>
-	</article>
-
-	<article>
-		<span class="image">
-			<img src="assets/images/IMG_5259.jpg" alt="" />
-		</span>
-		<header class="major">
-			<h3><a href="/forty-jekyll-theme/2016/08/23/magna.html" class="link">All for Fun, and Fun for All</a></h3>
-			<p>See what we've got to offer</p>
 		</header>
 	</article>
 
@@ -62,8 +52,18 @@ nav-menu: yes
 			<img src="assets/images/IMG_1317.jpg" alt="" />
 		</span>
 		<header class="major">
-			<h3><a href="/forty-jekyll-theme/2016/08/22/ipsum.html" class="link">LAN Party Legacy</a></h3>
+			<h3><a href="LanLegacy.html" class="link">LAN Party Legacy</a></h3>
 			<p>Photos and posters from past LAN parties</p>
+		</header>
+	</article>
+
+	<article>
+		<span class="image">
+			<img src="assets/images/IMG_5259.jpg" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="SponsorInfo.html" class="link">Sponsor Information</a></h3>
+			<p>Interested in sponsoring an event?</p>
 		</header>
 	</article>
 </section>
